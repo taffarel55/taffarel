@@ -1,6 +1,6 @@
 {
   "name": "taffarel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Taffarel about",
   "bin": {
     "taffarel": "taffarel.js"
