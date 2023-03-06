@@ -1,0 +1,36 @@
+{
+  "name": "taffarel",
+  "version": "0.0.1",
+  "description": "Taffarel about",
+  "bin": {
+    "taffarel": "taffarel.js"
+  },
+  "scripts": {
+    "dev": "nodemon taffarel.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taffarel55/taffarel.git"
+  },
+  "keywords": [
+    "taffarel",
+    "description",
+    "terminal"
+  ],
+  "author": "Maurício Taffarel <contact@taffarel.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taffarel55/taffarel/issues"
+  },
+  "homepage": "https://github.com/taffarel55/taffarel#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "got": "^11.5.0",
+    "inquirer": "^7.3.0",
+    "nodemon": "^2.0.21",
+    "open": "6.0.0",
+    "terminal-image": "^1.1.0",
+    "terminal-link": "^2.1.1",
+    "word-wrap": "^1.2.3"
+  }
+}

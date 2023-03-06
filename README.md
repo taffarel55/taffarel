@@ -1,0 +1,5 @@
+# taffarel
+
+```bash
+npx taffarel
+```
